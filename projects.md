@@ -58,8 +58,6 @@ toc_sticky: true
 
 ---
 
-## 个人项目
-
 ### Nexargus — 金融分析 Agent
 *2026.04 - 2026.05*
 

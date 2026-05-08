@@ -5,13 +5,7 @@ permalink: /about/
 
 ## 关于本站
 
-这里是 ZYX 的个人主页，主要分享以下内容：
-
-- **学术研究**：量化金融、资产定价相关论文与成果
-- **量化策略**：因子研究、行业轮动、择时模型
-- **技术笔记**：Python 量化开发、回测框架使用心得
-
-## 技术栈
+简历一页纸实在写不下了，又不想再压缩内容，于是做了这个在线主页。
 
 本站基于 [Jekyll](https://jekyllrb.com/) 构建，使用 [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) 主题，部署于 [GitHub Pages](https://pages.github.com/)。
 
