@@ -46,14 +46,31 @@ toc_sticky: true
 
 知识图谱 + 图神经网络保险反欺诈系统：
 - 图增强 XGBoost × HeteroGCN 双模型并行
-- Louvain × LPA 双算法社区发现
-- 团伙识别准确率 > 98%，五度查询 < 0.39s
+- Louvain × LPA 双算法社区发现，团伙识别准确率 > 98%，五度查询 < 0.39s
+- DeepSeek OCR + 大/小模型协同实现非结构化保单智能解析
 - Streamlit 交互式可视化全链路闭环
+- 主导需求拆解、产品架构设计、代码审查与前端开发
 
 ### 🥇 WorldQuant BRAIN Challenge · Gold Level
 *2025.04 - 2025.05*
 
 因子挖掘与回测，IQC 2025-Stage1 全球前 20%。
+
+---
+
+## 个人项目
+
+### Nexargus — 金融分析 Agent
+*2026.04 - 2026.05*
+
+从零构建的多层架构金融分析智能体系统，实现 15 层 Agentic 能力。
+
+- **TTT 测试时训练**：临时领域知识注入，用完即弃
+- **GRPO 群组相对策略优化**：N样本 → 群组排序 → Best-of-N / Top-K 融合
+- **Long-Horizon 长程任务管理**：检查点快照 + 子目标验证 + 自动回溯
+- **Self-Consistency 自洽采样**：多推理链投票共识
+- 完整"思考-行动-观察-反思-辩论-优化"推理循环
+- LLM Function Calling 自主调度 19 个工具，多人格子代理并行/辩论协作
 
 ---
 
