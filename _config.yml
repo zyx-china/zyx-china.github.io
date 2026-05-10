@@ -27,9 +27,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zyx-china"
-    - label: "邮箱"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:ushawn@126.com"
 
 # ==================== 页脚 ====================
 footer:
