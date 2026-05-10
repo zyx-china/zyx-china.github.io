@@ -3,6 +3,8 @@ title: "关于"
 permalink: /about/
 ---
 
+<style>html { font-size: 18px !important; }</style>
+
 ## 关于本站
 
 简历一页纸实在写不下了，又不想再压缩内容，于是做了这个在线主页。

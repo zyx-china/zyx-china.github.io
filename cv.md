@@ -5,6 +5,8 @@ toc: true
 toc_sticky: true
 ---
 
+<style>html { font-size: 18px !important; }</style>
+
 ## 基本信息
 
 | | |
