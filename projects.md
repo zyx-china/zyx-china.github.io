@@ -69,7 +69,7 @@ h3 { margin-top: 1rem !important; margin-bottom: 0.4rem !important; }
 ---
 
 ## Nexargus — 金融分析 Agent
-*2026年04月 - 2026年05月*
+*2026年04月 - 2026年05月 · [github.com/zyx-china/nexargus](https://github.com/zyx-china/nexargus)*
 
 - 从零构建的多层架构金融分析智能体系统，实现 **15 层 Agentic 能力**（含 5 种算法优化策略），具备规划、反思、辩论、元认知等高级认知能力
 - **TTT 测试时训练**：临时领域知识注入，用完即弃
