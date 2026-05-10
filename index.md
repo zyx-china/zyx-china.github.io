@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <style>
-html { font-size: 15px !important; }
-h2 { font-size: 1.4rem !important; }
-.page__content { font-size: 0.95rem !important; }
+html { font-size: 8px !important; }
+h2 { font-size: 1rem !important; }
+.page__content { font-size: 0.7rem !important; }
 </style>
 
 ## 关于我
