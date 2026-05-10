@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-html { font-size: 15px !important; }
+html { font-size: 18px !important; }
 </style>
 
 ## 关于我
