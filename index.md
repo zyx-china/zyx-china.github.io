@@ -11,7 +11,7 @@ html { font-size: 18px !important; }
 
 ## 关于我
 
-中国科学技术大学量化金融硕士，具备扎实的数理统计基础与量化研究能力。熟练掌握 Python，熟悉 NumPy、Pandas、Scikit-learn 等数据科学库及 Wind、iFind 等金融数据终端。熟悉机器学习算法与模型开发，具备 AI Agent 智能体从零构建经历，善用大语言模型及 Claude Code 等工具提升开发效率。熟悉多因子选股、资产配置及因子体系构建流程，熟练使用 Markdown、LaTeX、Typst 等文档工具。注重逻辑严谨性与实证验证，能高效完成模型迭代、策略回测及收益归因分析。
+中国科学技术大学量化金融硕士，具备扎实的数理统计基础与量化研究能力。熟练掌握 Python，熟悉 NumPy、Pandas、Scikit-learn 等数据科学库及 Wind、iFind 等金融数据 API。熟悉机器学习算法与模型开发，具备 AI Agent 智能体从零构建经历，善用大语言模型及 Claude Code 等工具提升开发效率。熟悉多因子选股、资产配置及因子体系构建流程，熟练使用 Markdown、LaTeX、Typst 等文档工具。注重逻辑严谨性与实证验证，能高效完成模型迭代、策略回测及收益归因分析。
 
 ## 联系方式
 
