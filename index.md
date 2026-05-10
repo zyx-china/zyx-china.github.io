@@ -7,6 +7,8 @@ author_profile: true
 
 <style>
 html { font-size: 18px !important; }
+h2 { margin-top: 1.2rem !important; margin-bottom: 0.6rem !important; }
+h3 { margin-top: 1rem !important; margin-bottom: 0.4rem !important; }
 </style>
 
 ## 关于我
