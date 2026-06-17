@@ -147,5 +147,5 @@ h3 { margin-top: 1rem !important; margin-bottom: 0.4rem !important; }
 | **量化框架** | BackTrader（尝试）、DolphinDB（了解）、TBQuant（了解） |
 | **文档工具** | Markdown（熟悉）、LaTeX（熟悉）、Typst（熟悉）、Office（熟悉） |
 | **AI 工具** | GitHub Copilot（熟悉）、Claude Code（熟悉）、Codex（了解） |
-| **AI 工程** | Prompt/Context 工程（熟悉）、Tool/Function Calling 与 MCP 协议（了解）、CLI 交互逻辑（了解）；具备 Agent Skill 设计思维，理解 Harness 概念与 ReAct 逻辑框架，能运用 AI 辅助解决复杂任务 |
+| **AI 工程** | 熟悉 Prompt/Context 工程；了解 Tool/Function Calling 机制与 MCP 协议；兼具 CLI 交互逻辑理解；具备 Agent Skill 设计思维，理解 Harness 概念与 ReAct 逻辑框架，能运用 AI 辅助解决复杂任务 |
 | **语言证书** | CET-4: 552、CET-6: 520、计算机二级（Python）、工业互联网平台开发工程师（初级） |
